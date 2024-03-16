@@ -15,4 +15,15 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aucchwas/myportfolio
+   [git clone https://github.com/aucchwas/myportfolio]
+2. Navigate to the project directory
+   ```bash
+   cd myportfolio
+3. install dependencies
+   ```bash
+   npm install
+4. Run the development server
+   ```bash
+   npm run dev
+
+Now you can see the result your browser on http://localhost:3000
